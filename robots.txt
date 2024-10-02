@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://amalmork.github.io/sitemap.html.gz
+Sitemap: https://amalmork.github.io/app/sitemap.html.gz
+Sitemap: https://amalmork.github.io/assets/sitemap.html.gz
+Sitemap: https://amalmork.github.io/css/sitemap.html.gz
+Sitemap: https://amalmork.github.io/data/sitemap.html.gz
+Sitemap: https://amalmork.github.io/includes/sitemap.html.gz
+Sitemap: https://amalmork.github.io/item/sitemap.html.gz
+Sitemap: https://amalmork.github.io/src/sitemap.html.gz
