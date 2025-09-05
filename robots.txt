@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+
+Sitemap: https://omeoh.com/sitemap-index.xml
